@@ -1,3 +1,3 @@
-## Battleship
+# Battleship
 
-# An experiment in learning websockets
+## An experiment in learning websockets
